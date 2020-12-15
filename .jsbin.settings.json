@@ -1,0 +1,8 @@
+{
+  // you can also use comments
+  // "app.theme": "dark"
+  "app.splitColumns": true,
+  "editor.lineWrapping": false,
+  // Font size in pixels
+  "editor.fontSize": 18
+}
