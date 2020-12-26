@@ -4,7 +4,7 @@
   "app.splitColumns": true,
   "editor.lineWrapping": false,
   // Font size in pixels
-  "editor.fontSize": 28,
+  "editor.fontSize": 22,
   // Default result panel. Values can be: 'page', 'console', 'both' and 'none'
   "app.result": "console",
   // Switches the view from columns to rows with result at the bottom
